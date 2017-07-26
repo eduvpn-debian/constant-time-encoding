@@ -1,6 +1,4 @@
-# Compulsory line, this is a version 3 file
 version=3
 
 opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/constant_time_encoding-$1\.tar\.gz/ \
-  https://github.com/paragonie/constant_time_encoding/tags .*/?(\d\S+)\.tar\.gz
-
+  https://github.com/paragonie/constant_time_encoding/tags .*/v?(\d\S+)\.tar\.gz
