@@ -1,3 +1,9 @@
+constant-time-encoding (2.0.3-2) stable; urgency=medium
+
+  * fix architecture
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Thu, 31 Aug 2017 12:02:22 +0200
+
 constant-time-encoding (2.0.3-1) stable; urgency=medium
 
   * initial release

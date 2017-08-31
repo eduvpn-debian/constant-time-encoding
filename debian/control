@@ -9,7 +9,7 @@ Vcs-Git: git://github.com/eduvpn-debian/constant_time_encoding.git
 Vcs-Browser: https://github.com/eduvpn-debian/constant_time_encoding/
 
 Package: php-paragonie-constant-time-encoding
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${phpcomposer:Debian-require}
 Suggests: ${phpcomposer:Debian-suggest}
 Description: ${phpcomposer:description}
