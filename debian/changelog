@@ -1,3 +1,9 @@
+constant-time-encoding (2.0.3-3) stable; urgency=medium
+
+  * fix lintian errors and warnings
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Fri, 13 Oct 2017 13:53:49 +0200
+
 constant-time-encoding (2.0.3-2) stable; urgency=medium
 
   * fix architecture
